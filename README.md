@@ -6,7 +6,7 @@
 Tech Stack:
 
 - Programming Language: Java, Dart, JavaScript
-- Cross Plateform Mobile App(Android & IOS): Flutter
+- Cross Platform Mobile App (Android & IOS): Flutter
 - Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
 - Frontend: HTML5, CSS3, Jquery
 - Database: MySql
