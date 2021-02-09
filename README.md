@@ -15,7 +15,7 @@ Tech Stack:
 - Cloud: AWS
 - Version Control: Git
 - Prototyping: JustInMind
-- IDE: Intellij IDEA, VS Code, Visual Studio Community 2019, Eclips, Netbeans
+- IDE: Intellij IDEA, VS Code, Visual Studio Community 2019, Eclipse, Netbeans
 - Operating System: Linux, Mac, Windows
 - Project Management: Scrum
 
