@@ -1,15 +1,15 @@
 ### Hi there 👋, my name is Sarfaraz Ahmed
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/sarfarazahmed008/)
 
-1+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java stack. I am always open in working with new tech stack. Following are my current tech stack.
+1+ years of experience in designing and developing scalable and highly available web and cross-platform mobile applications. I am always open in working with new tech stack. Following are my current tech stack.
 
 Tech Stack:
 
 - Programming Language: Java, Dart, JavaScript
 - Cross Platform Mobile App (Android & IOS): Flutter
-- Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
+- Backend: Java8, Spring Boot, Spring MVC, Hibernate, Restful Services, Microservices
 - Frontend: HTML5, CSS3, Jquery
-- Database: MySql
+- Database: MySql, NoSql
 - Build tools: Maven
 - Servers: Tomcat
 - Cloud: AWS
