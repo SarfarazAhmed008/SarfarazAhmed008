@@ -23,5 +23,4 @@ Soft Skills:
 
 - Problem Solving, TeamWork, Communication 
 
-![Sarfaraz's github stats](https://github-readme-stats.vercel.app/api?username=sarfarazahmed008&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazahmed008)](https://github.com/anuraghazra/github-readme-stats)
+![Sarfaraz's github stats](https://github-readme-stats.vercel.app/api?username=sarfarazahmed008&show_icons=true&theme=blue-green)
